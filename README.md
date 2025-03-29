@@ -36,7 +36,7 @@ Currently, I am improving my skills in **Docker, Kubernetes, and RESTful APIs** 
 
 ## 📬 Contact Me  
 
-💼 [LinkedIn](https://www.linkedin.com/in/francescorosati/)  
+💼 [LinkedIn](https://www.linkedin.com/in/rosatifrancesco1993/)  
 📧 Email: rosati.francesco1993@gmail.com  
 📍 Rome, Italy  
 
